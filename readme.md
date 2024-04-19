@@ -1,3 +1,6 @@
+点击右边的 "Releases"
+下载 "DetectGUI-0.3.1-alpha.zip"
+
 将解压后的文件夹放在YOLOV5文件夹下
 YOLOV5/DetectGUI
 
